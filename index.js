@@ -70,6 +70,7 @@ res.sendFile( path.resolve(__dirname, 'public/index.html'));
   //});
 //});
 
+
 //levanto espress, coloco el puerto 4000, luego viene un callback
 // que es la funcion que se va a ejecutar cuando este levantado el servidor
 // app.listen( 4000, () => {
